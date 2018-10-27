@@ -1,3 +1,8 @@
+#### Name: Arun Kumar
+ - Place: Vellore, India
+ - Bio: Student. Vit university.
+ - GitHub: [V-Arunkumar](https://github.com/V-Arunkumar)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
